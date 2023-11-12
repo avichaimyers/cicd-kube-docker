@@ -192,8 +192,3 @@ pipeline {
     }
 
 }
-
-
-Regards,
-
-From Team Imran
